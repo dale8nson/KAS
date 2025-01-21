@@ -1,0 +1,6 @@
+@KAS_HostAddress = http://localhost:5252
+
+GET {{KAS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
