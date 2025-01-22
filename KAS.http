@@ -4,3 +4,6 @@ GET {{KAS_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{KAS_HostAddress}}/api/chartofaccounts/
+Accept: application/json
+### 
